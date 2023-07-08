@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string-array name="banners">
+        <item>ele.jpg</item>
+        <item>MFF_7857.jpg</item>
+        <item>MFF_7981.jpg</item>
+        <item>MFF_8122.jpg</item>
+    </string-array>
+
+</resources>
